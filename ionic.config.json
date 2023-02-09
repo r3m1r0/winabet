@@ -1,0 +1,7 @@
+{
+  "name": "winabet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
