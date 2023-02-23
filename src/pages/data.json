@@ -1,0 +1,23 @@
+[
+    {
+        "Id":1,
+        "Equ1": "Lorraine",
+        "Equ2": "Châteauroux",
+        "Score1":2,
+        "Score2":2
+    },
+    {
+        "Id":2,
+        "Equ1": "Versailles",
+        "Equ2": "LeMans",
+        "Score1":2,
+        "Score2":3
+    },
+    {
+        "Id":3,
+        "Equ1": "Colomiers",
+        "Equ2": "Concarneau",
+        "Score1":2,
+        "Score2":1
+    }
+  ]
